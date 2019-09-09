@@ -50,3 +50,5 @@ Run:
 ```
 ./run_editor.sh
 ```
+## Run the level:
+The test map is located `Levels/Landscape/Maps/Demostration`
