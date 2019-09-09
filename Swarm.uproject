@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0003E458-08D7-20A4-3BA4-DC1274A77373}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Swarm",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
