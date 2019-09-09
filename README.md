@@ -40,7 +40,7 @@ export UE4_SWARM=/path/to/UE4_SWARM
 Generate project files and build
 
 ```
-cd $UE4_GAMS
+cd $UE4_SWARM
 ./generate.sh
 ./build.sh
 ```
