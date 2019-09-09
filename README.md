@@ -52,3 +52,8 @@ Run:
 ```
 ## Run the level:
 The test map is located `Levels/Landscape/Maps/Demostration`
+
+Changes altitude with keys:
+```
+Q E
+```
